@@ -1,0 +1,9 @@
+P 2 # select pen 2
+X 250 # go to 5 along
+Y 150 # go to 15 down
+D 0 # pen down
+W 200 # draw west 2cm
+N 100 # then north 1cm
+E 200 # then east 2cm
+S 100
+U 0 # pen up
